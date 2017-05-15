@@ -13,5 +13,3 @@ permalink: /:year/:month/:title.html
 
 # Build settings
 markdown: kramdown
-
-theme: jekyll-theme-leap-day

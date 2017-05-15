@@ -1,0 +1,16 @@
+---
+layout: post
+title:  um outro teste
+date: "`r Sys.time()`"
+published: true
+tags: [example1, example2]
+---
+
+Your markdown here!
+
+Agora vai!
+
+
+```{r}
+plot(1:10)
+```
