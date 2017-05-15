@@ -10,4 +10,7 @@ Your markdown here!
 
 ```{r}
 plot(1:10)
+plot(1:10)
+
+
 ```
