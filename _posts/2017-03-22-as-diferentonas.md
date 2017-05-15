@@ -14,4 +14,4 @@ plot(1:10)
 plot(1:10)
 {% endhighlight %}
 
-![plot of chunk unnamed-chunk-1](knitr-jekyll/figure/source/as-diferentonas/2017-03-22-as-diferentonas/unnamed-chunk-1-1.png)
+![plot of chunk unnamed-chunk-1](/knitr-jekyll/figure/source/as-diferentonas/2017-03-22-as-diferentonas/unnamed-chunk-1-1.png)
